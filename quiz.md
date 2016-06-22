@@ -111,7 +111,7 @@ RSA
 
 1. 認証の手法で、SYK/SYH/SYAの違いを説明してください(2点)  
 SYK(Something You Know) => 記憶や知識による認証、パスワード認証  
-SKH(Something You Have) => その人しか持つことができないものによる認証、社員証  
+SYH(Something You Have) => その人しか持つことができないものによる認証、社員証  
 SYA(Something You Are) => その人の特徴による認証、生体認証
 
 1. パスワード認証で、パスワードを設定する際の注意点を挙げてください
